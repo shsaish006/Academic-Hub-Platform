@@ -6,18 +6,7 @@
   <br />
 
   <div>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
-<img src="https://img.shields.io/badge/-Refine-42D7C3?style=for-the-badge&logo=Refine&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" /> <br/>
-<img src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-NeonDB-00E599?style=for-the-badge&logo=Neon&logoColor=black" /> 
-<img src="https://img.shields.io/badge/-Drizzle-C5F74F?style=for-the-badge&logo=Drizzle&logoColor=black" /> 
-<img src="https://img.shields.io/badge/-Better--Auth-000?style=for-the-badge&logo=Auth0&logoColor=white" /> <br/>
-<img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/-Arcjet-34388F?style=for-the-badge&logo=Arcjet&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Site24x7-26CD66?style=for-the-badge&logo=Site24x7&logoColor=white" />
-<img src="https://img.shields.io/badge/-CodeRabbit-FC5D13?style=for-the-badge&logo=CodeRabbit&logoColor=white" /> 
+
 
   </div>
 
