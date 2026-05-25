@@ -1,0 +1,17 @@
+{
+  "name": "academic-hub-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install --workspaces --legacy-peer-deps && npm install --legacy-peer-deps",
+    "dev": "concurrently \"npm run dev --workspace=classroom-backend\" \"npm run dev --workspace=classroom-frontend\"",
+    "build:all": "npm run build --workspaces"
+  },
+  "workspaces": [
+    "classroom-backend",
+    "classroom-frontend"
+  ],
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
