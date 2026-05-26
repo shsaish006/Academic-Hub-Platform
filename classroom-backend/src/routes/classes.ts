@@ -51,7 +51,7 @@ router.get("/", async (req, res) => {
             .leftJoin(user, eq(classes.teacherId, user.id))
             .where(whereClause);
 
-        const totalCount = countResult[0]?.count ?? 0;
+        const totalCount = Number(countResult[0]?.count) ?? 0;
 
         const classesList = await db
             .select({

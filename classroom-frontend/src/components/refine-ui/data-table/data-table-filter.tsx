@@ -774,7 +774,7 @@ export function DataTableFilterInput<TData>({
 }
 
 const CRUD_OPERATOR_LABELS: Record<
-  Exclude<CrudOperators, "or" | "and">,
+  string,
   { i18nKey: string; defaultLabel: string }
 > = {
   eq: { i18nKey: "table.filter.operator.eq", defaultLabel: "Equals" },

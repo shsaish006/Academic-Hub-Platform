@@ -20,26 +20,14 @@ export const ROLE_OPTIONS = [
 ];
 
 export const DEPARTMENTS = [
-    "Computer Science",
-    "Mathematics",
-    "Physics",
-    "Chemistry",
-    "Biology",
-    "English",
-    "History",
-    "Geography",
-    "Economics",
-    "Business Administration",
-    "Engineering",
-    "Psychology",
-    "Sociology",
-    "Political Science",
-    "Philosophy",
-    "Education",
-    "Fine Arts",
-    "Music",
-    "Physical Education",
-    "Law",
+    "Computer Science & Engineering",
+    "Electronics & Communication Engineering",
+    "Mechanical Engineering",
+    "Biotechnology",
+    "Chemical Engineering",
+    "Mathematics & Computing",
+    "Civil Engineering",
+    "Electrical Engineering",
 ] as const;
 
 export const DEPARTMENT_OPTIONS = DEPARTMENTS.map((dept) => ({
